@@ -1,0 +1,3 @@
+1) Define o valor da variável A e B, depois imprime o valor da variável B, depois altera o valor da variável B para 5 e imprime
+2) Definimos o valor da variável A e B, depois mudamos o valor da variável (C=A =10 , B=C =10, A=B=10)
+3) pedimos informações quanto o salário e horas trabalhadas por dia, e definimos que as variáveis P e T seriam iguais as respostas, as duas individualmente. Após isso, dividiríamos o valor T por P, dando o resultado do que receberíamos em horas de trabalho. Poderíamos substituir o valor da variável P em horasTrabalhadas e a T em SalarioDia.
